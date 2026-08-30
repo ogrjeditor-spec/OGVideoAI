@@ -1,0 +1,6 @@
+{
+  "name": "USHA MOBILE HOUSE - Stock & Billing",
+  "description": "Stock Management, Purchase, Sales, and Invoicing system for USHA MOBILE HOUSE mobile shop in Rudrapur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
